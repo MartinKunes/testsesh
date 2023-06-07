@@ -1,0 +1,61 @@
+
+{
+  "sneakers": [
+    {
+      "id": 1,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/458/084/original/569208_01.jpg.jpeg",
+      "name": "Nike Air Jordan 1",
+      "releaseDate": "2022-05-01",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/070/278/012/original/105568_01.jpg.jpeg",
+      "name": "Adidas Yeezy Boost 350",
+      "releaseDate": "2022-06-15",
+      "price": 220
+    },
+    {
+      "id": 3,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/295/032/original/1131128_01.jpg.jpeg",
+      "name": "Nike Dunk",
+      "releaseDate": "2022-07-10",
+      "price": 80
+    },
+    {
+      "id": 4,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/081/336/original/147186_01.jpg.jpeg",
+      "name": "Converse Chuck Taylor All Star",
+      "releaseDate": "2022-08-05",
+      "price": 60
+    },
+    {
+      "id": 5,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/043/946/221/original/567948_01.jpg.jpeg",
+      "name": "Nike Air Jordan 1",
+      "releaseDate": "2022-05-01",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/334/468/original/848748_01.jpg.jpeg",
+      "name": "Adidas Yeezy Boost 350",
+      "releaseDate": "2022-06-15",
+      "price": 220
+    },
+    {
+      "id": 7,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/445/310/original/719082_01.jpg.jpeg",
+      "name": "Nike Dunk",
+      "releaseDate": "2022-07-10",
+      "price": 80
+    },
+    {
+      "id": 8,
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/068/534/683/original/77243_01.jpg.jpeg",
+      "name": "Converse Chuck Taylor All Star",
+      "releaseDate": "2022-08-05",
+      "price": 60
+    }
+  ]
+}
